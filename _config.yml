@@ -1,11 +1,11 @@
 # Site settings
 author: Chris Kerbo
-title: 
+title: Coding in Cascadia
 header-img: img/home-bg.png
 email: chris.kerbo@outlook.com
 copyright_name: Chris Kerbo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  It’s not a bug – it’s an undocumented feature.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  cskerbo
